@@ -1,5 +1,7 @@
 # ChatGPT Basic Android Client
 
+**Note:** This is a demo application for the ChatGPT API. It is not intended for production use. This is the source code for the ChatGPT Basic Android Client app on YouTube: https://www.youtube.com/watch?v=56KtTc2oL-I
+
 This repository contains the source code for a basic Android client for interacting with OpenAI's ChatGPT. It provides a simple UI that allows users to send messages to ChatGPT and receive responses in real-time. This app is designed to showcase the capabilities of ChatGPT and serve as a starting point for developers to build their own applications using the ChatGPT API.
 
 ## Features
@@ -19,12 +21,8 @@ This repository contains the source code for a basic Android client for interact
 
 ### Installation
 
-1. Clone the repository:
- ```bash
- git clone https://github.com/moallemi/ChatGPT-basic-android-client.git
- ```
-then open the project in Android Studio.
-2. add your OpenAI API key in `OpenAIApi.kt`
+1. Clone the repository
+2. Add your OpenAI API key in `OpenAIApi.kt`
 3. Build and run the app on an emulator or a physical device.
 
 ## Usage
